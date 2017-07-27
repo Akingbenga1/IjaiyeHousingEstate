@@ -1,0 +1,157 @@
+body{
+	background:#fff;
+}
+
+#header{
+	width:100%;
+	height:auto;
+	margin-bottom: 2%;
+
+}
+
+.logo{
+	width: 50%;
+	margin-top:7%;
+}
+
+#side-head h2{
+    font-family: 'Roboto', sans-serif;
+    font-size: 27px;
+    font-weight: bolder;
+    color:#282828;
+    margin-top:5%;
+    margin-bottom:0px;
+}
+
+#side-head p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    color:#555555;
+}
+
+#base{
+	width:100%;
+	height: auto;
+    background: #70ac2b;
+    padding:2%;
+}
+
+.box-flex{
+    width:20%;
+    height:70px;
+    border:1px solid #fff;
+    padding:2%;
+     font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    color:#fff;
+}
+
+.box-flex h3{
+
+     font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color:#fff;
+    font-weight: bold;
+    margin: 0px;
+}
+
+.num-box{
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    color:#fff;
+}
+
+.num1{
+    border:1px solid #fff; padding:2%; border-radius:10px; width: 100%;float:left;
+    margin-bottom: 2%;
+}
+
+.clear-fix{
+    clear:both;
+    width: 100%;
+}
+
+#content-container{
+	width: 100%;
+	height: auto;
+	background:#fff;
+	padding-bottom: 2%;
+}
+
+#profile{
+padding:2%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color:#282828;
+    margin-top:5%;
+}
+
+
+#profile h4{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    color:#282828;
+    margin:0px;
+    padding:0px;
+}
+
+#table-1{
+    margin-top:2%;
+}
+
+#tot-box{
+     font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    color:#282828;
+}
+
+
+#tot-box h4{
+     font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    color:#282828;
+    margin:1px;
+    padding:1px;
+}
+
+.due{
+
+    color:#418e29;
+     font-size: 25px;
+    font-weight: bolder;
+    padding:2%;
+    
+}
+
+#base-footer{
+    width:100%;
+    height: 300px;
+    background: #418e29;
+}
+
+.t-b{
+   text-align:center;
+}
+
+#base-footer h2{
+   font-family: 'Roboto', sans-serif;
+    font-size: 28px;
+    color:white;
+    margin-top:3%;
+}
+
+#base-footer h4{
+   font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    color:white;
+}
+
+#f-table{
+    width:100%;
+    height: 150px;
+    background:white;
+    border-radius: 10px;
+}
